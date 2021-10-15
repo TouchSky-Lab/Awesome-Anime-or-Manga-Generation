@@ -15,8 +15,8 @@
 - MineGAN: effective knowledge transfer from GANs to target domains with few images|CVPR 2020 | [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf)]
 
 
-
 # Image-to-Image Tranlation
+- CartoonGAN: Generative Adversarial Networks for Photo Cartoonization[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)] [[code](https://github.com/mnicnc404/CartoonGan-tensorflow)]
 - Generating Cartoon Style Facial Expressions with StackGAN [[paper]()]
 - FINE-TUNING STYLEGAN2 FOR CARTOON FACE GENERATION  [[paper]()]
 
