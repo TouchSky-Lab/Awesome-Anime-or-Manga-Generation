@@ -9,6 +9,9 @@
 - MakeItTalk: Speaker-Aware Talking-Head Animation | SIGGRAPH Asia2020 |
 - CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation | ACCV2020 |
 
+# Image Generation
+
+
 # Image-to-Image Tranlation
 - Generating Cartoon Style Facial Expressions with StackGAN [[paper]()]
 - FINE-TUNING STYLEGAN2 FOR CARTOON FACE GENERATION  [[paper]()]
