@@ -10,6 +10,10 @@
 - CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation | ACCV2020 |
 
 # Image Generation
+- GAN Memory with No Forgetting | NeurIPS2020 | [[paper](https://arxiv.org/pdf/2006.07543.pdf)]
+- HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms [[paper](https://arxiv.org/pdf/2011.11731.pdf)]
+- MineGAN: effective knowledge transfer from GANs to target domains with few images|CVPR 2020 | [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf)]
+
 
 
 # Image-to-Image Tranlation
